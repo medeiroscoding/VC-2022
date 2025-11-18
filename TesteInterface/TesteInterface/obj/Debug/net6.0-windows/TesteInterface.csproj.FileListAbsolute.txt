@@ -1,0 +1,17 @@
+D:\Pedro Medeiros\TesteInterface\TesteInterface\bin\Debug\net6.0-windows\TesteInterface.exe
+D:\Pedro Medeiros\TesteInterface\TesteInterface\bin\Debug\net6.0-windows\TesteInterface.deps.json
+D:\Pedro Medeiros\TesteInterface\TesteInterface\bin\Debug\net6.0-windows\TesteInterface.runtimeconfig.json
+D:\Pedro Medeiros\TesteInterface\TesteInterface\bin\Debug\net6.0-windows\TesteInterface.dll
+D:\Pedro Medeiros\TesteInterface\TesteInterface\bin\Debug\net6.0-windows\TesteInterface.pdb
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.csproj.AssemblyReference.cache
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.Form1.resources
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.csproj.GenerateResource.cache
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.AssemblyInfoInputs.cache
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.AssemblyInfo.cs
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.csproj.CoreCompileInputs.cache
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.dll
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\refint\TesteInterface.dll
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.pdb
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\TesteInterface.genruntimeconfig.cache
+D:\Pedro Medeiros\TesteInterface\TesteInterface\obj\Debug\net6.0-windows\ref\TesteInterface.dll
