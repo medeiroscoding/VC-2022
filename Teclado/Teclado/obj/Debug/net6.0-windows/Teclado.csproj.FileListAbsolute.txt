@@ -1,0 +1,17 @@
+D:\Pedro Medeiros\Teclado\Teclado\bin\Debug\net6.0-windows\Teclado.exe
+D:\Pedro Medeiros\Teclado\Teclado\bin\Debug\net6.0-windows\Teclado.deps.json
+D:\Pedro Medeiros\Teclado\Teclado\bin\Debug\net6.0-windows\Teclado.runtimeconfig.json
+D:\Pedro Medeiros\Teclado\Teclado\bin\Debug\net6.0-windows\Teclado.dll
+D:\Pedro Medeiros\Teclado\Teclado\bin\Debug\net6.0-windows\Teclado.pdb
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.csproj.AssemblyReference.cache
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.Form1.resources
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.csproj.GenerateResource.cache
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.AssemblyInfoInputs.cache
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.AssemblyInfo.cs
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.csproj.CoreCompileInputs.cache
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.dll
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\refint\Teclado.dll
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.pdb
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\Teclado.genruntimeconfig.cache
+D:\Pedro Medeiros\Teclado\Teclado\obj\Debug\net6.0-windows\ref\Teclado.dll
