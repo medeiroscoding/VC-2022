@@ -1,0 +1,17 @@
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\bin\Debug\net6.0-windows\MeuDesign.exe
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\bin\Debug\net6.0-windows\MeuDesign.deps.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\bin\Debug\net6.0-windows\MeuDesign.runtimeconfig.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\bin\Debug\net6.0-windows\MeuDesign.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\bin\Debug\net6.0-windows\MeuDesign.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.Form1.resources
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.Properties.Resources.resources
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\refint\MeuDesign.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\MeuDesign.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\MeuDesign\MeuDesign\obj\Debug\net6.0-windows\ref\MeuDesign.dll
