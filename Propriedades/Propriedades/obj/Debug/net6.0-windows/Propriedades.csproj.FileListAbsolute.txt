@@ -1,0 +1,16 @@
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\bin\Debug\net6.0-windows\Propriedades.exe
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\bin\Debug\net6.0-windows\Propriedades.deps.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\bin\Debug\net6.0-windows\Propriedades.runtimeconfig.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\bin\Debug\net6.0-windows\Propriedades.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\bin\Debug\net6.0-windows\Propriedades.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.Form1.resources
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\refint\Propriedades.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\Propriedades.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\Propriedades\Propriedades\obj\Debug\net6.0-windows\ref\Propriedades.dll
